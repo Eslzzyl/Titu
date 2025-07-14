@@ -4,6 +4,8 @@
 
 [English](./README.md) | 简体中文
 
+![主图](./docs/teaser.webp)
+
 ## 安装
 
 ### 步骤

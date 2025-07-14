@@ -2,6 +2,8 @@ This repository provides the source code for the ACM Multimedia 2025 paper "From
 
 English | [简体中文](./README_zh.md)
 
+![teaser figure](./docs/teaser.webp)
+
 ## Installation
 
 ### Steps
