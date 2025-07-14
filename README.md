@@ -1,5 +1,7 @@
 This repository provides the source code for the ACM Multimedia 2025 paper "From Outline to Detail: An Hierarchical End-to-end Framework for Coherent and Consistent Visual Novel Generation and Assembly".
 
+English | [简体中文](./README_zh.md)
+
 ## Installation
 
 ### Steps

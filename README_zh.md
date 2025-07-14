@@ -2,6 +2,8 @@
 
 本仓库提供了 ACM Multimedia 2025 论文《From Outline to Detail: An Hierarchical End-to-end Framework for Coherent and Consistent Visual Novel Generation and Assembly》的源代码。
 
+[English](./README.md) | 简体中文
+
 ## 安装
 
 ### 步骤
