@@ -1,0 +1,19 @@
+[project]
+name = "Titu"
+version = "0.1.0"
+description = "An end-to-end visual novel generation framework"
+readme = "README.md"
+authors = [{ name = "Eslzzyl", email = "eslzzyl@163.com" }]
+maintainers = [{ name = "Eslzzyl", email = "eslzzyl@163.com" }]
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=1.10.0",
+    "openai>=1.64.0",
+    "pillow>=11.1.0",
+    "rich>=13.9.4",
+    "websocket-client>=1.8.0",
+]
+
+[project.urls]
+Repository = "https://github.com/Eslzzyl/Titu"

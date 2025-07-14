@@ -1,0 +1,1 @@
+# Make the entire stage directory a Python package

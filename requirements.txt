@@ -1,0 +1,7 @@
+# 我们推荐使用 uv 配置环境，但为了兼容 pip，我们在此处也提供了一份 requirements.txt 文件。
+# We recommend using uv to set up the environment, but for compatibility with pip, we also provide a requirements.txt file here.
+openai
+pillow
+rich
+websocket-client
+google-genai
